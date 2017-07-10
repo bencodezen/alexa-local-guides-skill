@@ -47,33 +47,34 @@ var data = {
             "description": "Love their french toast here! Definitely don't want to miss out on those!"
         },
         {
-            "name": "Choi's Chicken and Trout",
-            "address": "3436 Annapolis Rd, Baltimore, MD 21227",
-            "phone": "410-668-2264",
-            "meals": "lunch, dinner",
-            "description": "Haven't been here yet, but it seems to be a good spot to hit up for any Food Network or Travel Channel junkies!"
+            "name": "Canéla",
+            "address": "1801 E Lombard St, Baltimore, MD 21231",
+            "phone": "443-564-4060",
+            "meals": "coffee, breakfast, brunch",
+            "description": "An adorable coffee shop that has friendly staff and great coffee to match the service!"
         }
+
     ],
     "attractions":[
         {
-            "name": "Whale Watching",
-            "description": "Gloucester has tour boats that depart twice daily from Rogers street at the harbor.  Try either the 7 Seas Whale Watch, or Captain Bill and Sons Whale Watch. ",
+            "name": "Inner Harbor",
+            "description": "Take a ride on one of the tour guide boats or just stay on the strip mall along the water and each lots of delicious food!",
             "distance": "0"
         },
         {
-            "name": "Good Harbor Beach",
-            "description": "Facing the Atlantic Ocean, Good Harbor Beach has huge expanses of soft white sand that attracts hundreds of visitors every day during the summer.",
+            "name": "National Aquarium",
+            "description": "One of the largest aquariums in the world. It is definitely a can't miss when you're in the area!",
             "distance": "2"
         },
         {
-            "name": "Rockport",
-            "description": "A quaint New England town, Rockport is famous for rocky beaches, seaside parks, lobster fishing boats, and several art studios.",
+            "name": "Oriole Park",
+            "description": "Watch a game of baseball and then go out for a walk to the Inner Harbor nearby!",
             "distance": "4"
         },
         {
-            "name": "Fenway Park",
-            "description": "Home of the Boston Red Sox, Fenway park hosts baseball games From April until October, and is open for tours. ",
-            "distance": "38"
+            "name": "Fort McHenry",
+            "description": "For those history buffs, you don't want to miss out on visiting this famous fort!",
+            "distance": "12"
         }
     ]
 }
