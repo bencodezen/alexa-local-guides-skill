@@ -14,41 +14,45 @@ var languageStrings = {
     // , 'de-DE': { 'translation' : { 'TITLE'   : "Local Helfer etc." } }
 };
 var data = {
-    "city"        : "Gloucester",
-    "state"       : "MA",
-    "postcode"    : "01930",
+    "city"        : "Baltimore",
+    "state"       : "MD",
+    "postcode"    : "21201",
     "restaurants" : [
-        { "name":"Zeke's Place",
-            "address":"66 East Main Street", "phone": "978-283-0474",
-            "meals": "breakfast, lunch",
-            "description": "A cozy and popular spot for breakfast.  Try the blueberry french toast!"
-        },
-        { "name":"Morning Glory Coffee Shop",
-            "address":"25 Western Avenue", "phone": "978-281-1851",
-            "meals": "coffee, breakfast, lunch",
-            "description": "A homestyle diner located just across the street from the harbor sea wall."
-        },
-        { "name":"Sugar Magnolias",
-            "address":"112 Main Street", "phone": "978-281-5310",
-            "meals": "breakfast, lunch",
-            "description": "A quaint eatery, popular for weekend brunch.  Try the carrot cake pancakes."
-        },
-        { "name":"Seaport Grille",
-            "address":"6 Rowe Square", "phone": "978-282-9799",
+        {
+            "name": "G&M Restaurant",
+            "address": "804 N Hammonds Ferry Rd, Linthicum Heights, MD 21090",
+            "phone": "410-636-1777",
             "meals": "lunch, dinner",
-            "description": "Serving seafood, steak and casual fare.  Enjoy harbor views on the deck."
+            "description": "Hands down the best crabcakes in the area! Closest competitor would be Timbuktu near Hanover, Maryland."
         },
-        { "name":"Latitude 43",
-            "address":"25 Rogers Street", "phone": "978-281-0223",
+        {
+            "name": "Woodberry Kitchen",
+            "address": "2010 Clipper Park Rd, Baltimore, MD 21211",
+            "phone": "410-464-8000",
             "meals": "lunch, dinner",
-            "description": "Features artsy decor and sushi specials.  Live music evenings at the adjoining Minglewood Tavern."
+            "description": "A farm to table restaurant that serves an array of healthy options for various diets. A little pricey, but a great experience for any foodie!"
         },
-        { "name":"George's Coffee Shop",
-            "address":"178 Washington Street", "phone": "978-281-1910",
-            "meals": "coffee, breakfast, lunch",
-            "description": "A highly rated local diner with generously sized plates."
+        {
+            "name": "Miss Shirley's Cafe",
+            "address": "750 E Pratt St, Baltimore, MD 21202",
+            "phone": "410-528-5373",
+            "meals": "breakfast, brunch, lunch",
+            "description": "A phenomenal place to go to in order to get your day started! For apple cider fans, make sure to order a hot one with a cinnamon stick in it!"
         },
-
+        {
+            "name": "Blue Moon Cafe",
+            "address": "1621 Aliceanna St, Baltimore, MD 21231",
+            "phone": "410-522-3940",
+            "meals": "breakfast, brunch, lunch",
+            "description": "Love their french toast here! Definitely don't want to miss out on those!"
+        },
+        {
+            "name": "Choi's Chicken and Trout",
+            "address": "3436 Annapolis Rd, Baltimore, MD 21227",
+            "phone": "410-668-2264",
+            "meals": "lunch, dinner",
+            "description": "Haven't been here yet, but it seems to be a good spot to hit up for any Food Network or Travel Channel junkies!"
+        }
     ],
     "attractions":[
         {
