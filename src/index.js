@@ -5,9 +5,9 @@
 var languageStrings = {
     'en': {
         'translation': {
-            'WELCOME' : "Welcome to Gloucester Guide!",
+            'WELCOME' : "Welcome to Baltimore, Maryland Guide!",
             'HELP'    : "Say about, to hear more about the city, or say coffee, breakfast, lunch, or dinner, to hear local restaurant suggestions, or say recommend an attraction, or say, go outside. ",
-            'ABOUT'   : "Gloucester Massachusetts is a city on the Atlantic Ocean.  A popular summer beach destination, Gloucester has a rich history of fishing and ship building.",
+            'ABOUT'   : "Baltimore, Maryland is home to amazing crabcakes and seafood! It has a lot of history and has one of the largest aquariums in the world!",
             'STOP'    : "Okay, see you next time!"
         }
     }
